@@ -13,7 +13,7 @@ por suas tecnologias dominantes com as informações e acesso ao perfil do Githu
 esse projeto não tem fins lucrativos, é só para estudo e aprendizado.
 "Realizei uma pequena alteração nas cores e no nome do projeto."
 
-<img src="https://byraphaelmedeiros.com/assets/img/projects/DevRadar.png">
+
 
 
 <h2><a id="user-content-rocket-technologies" class="anchor" aria-hidden="true" href="#rocket-technologies">
